@@ -1,0 +1,17 @@
+C:\Users\gajtejas1\Desktop\Spring\user-service\src\main\java\com\ecommerce\userservice\config\WebConfig.java
+C:\Users\gajtejas1\Desktop\Spring\user-service\src\main\java\com\ecommerce\userservice\exception\GlobalExceptionHandler.java
+C:\Users\gajtejas1\Desktop\Spring\user-service\src\main\java\com\ecommerce\userservice\dto\LoginResponse.java
+C:\Users\gajtejas1\Desktop\Spring\user-service\src\main\java\com\ecommerce\userservice\service\UserService.java
+C:\Users\gajtejas1\Desktop\Spring\user-service\src\main\java\com\ecommerce\userservice\repository\UserRepository.java
+C:\Users\gajtejas1\Desktop\Spring\user-service\src\main\java\com\ecommerce\userservice\model\Role.java
+C:\Users\gajtejas1\Desktop\Spring\user-service\src\main\java\com\ecommerce\userservice\dto\UserUpdateRequest.java
+C:\Users\gajtejas1\Desktop\Spring\user-service\src\main\java\com\ecommerce\userservice\dto\UserResponse.java
+C:\Users\gajtejas1\Desktop\Spring\user-service\src\main\java\com\ecommerce\userservice\dto\LoginRequest.java
+C:\Users\gajtejas1\Desktop\Spring\user-service\src\main\java\com\ecommerce\userservice\model\User.java
+C:\Users\gajtejas1\Desktop\Spring\user-service\src\main\java\com\ecommerce\userservice\controller\UserController.java
+C:\Users\gajtejas1\Desktop\Spring\user-service\src\main\java\com\ecommerce\userservice\security\JwtAuthenticationFilter.java
+C:\Users\gajtejas1\Desktop\Spring\user-service\src\main\java\com\ecommerce\userservice\config\SecurityConfig.java
+C:\Users\gajtejas1\Desktop\Spring\user-service\src\main\java\com\ecommerce\userservice\service\AuthService.java
+C:\Users\gajtejas1\Desktop\Spring\user-service\src\main\java\com\ecommerce\userservice\security\JwtTokenProvider.java
+C:\Users\gajtejas1\Desktop\Spring\user-service\src\main\java\com\ecommerce\userservice\dto\RegisterRequest.java
+C:\Users\gajtejas1\Desktop\Spring\user-service\src\main\java\com\ecommerce\userservice\UserServiceApplication.java

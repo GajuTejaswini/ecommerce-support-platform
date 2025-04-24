@@ -1,0 +1,15 @@
+com\ecommerce\ticketservice\controller\TicketController.class
+com\ecommerce\ticketservice\exception\GlobalExceptionHandler.class
+com\ecommerce\ticketservice\model\Ticket.class
+com\ecommerce\ticketservice\repository\TicketRepository.class
+com\ecommerce\ticketservice\model\TicketCategory.class
+com\ecommerce\ticketservice\dto\AssignTicketRequest.class
+com\ecommerce\ticketservice\dto\TicketRequest.class
+com\ecommerce\ticketservice\dto\CreateTicketRequest.class
+com\ecommerce\ticketservice\dto\UpdateTicketRequest.class
+com\ecommerce\ticketservice\service\TicketService.class
+com\ecommerce\ticketservice\model\TicketPriority.class
+com\ecommerce\ticketservice\model\Comment.class
+com\ecommerce\ticketservice\model\TicketStatus.class
+com\ecommerce\ticketservice\TicketServiceApplication.class
+com\ecommerce\ticketservice\dto\CommentRequest.class

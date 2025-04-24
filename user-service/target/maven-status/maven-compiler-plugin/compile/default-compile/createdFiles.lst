@@ -1,0 +1,11 @@
+com\ecommerce\userservice\security\JwtTokenProvider.class
+com\ecommerce\userservice\UserServiceApplication.class
+com\ecommerce\userservice\dto\LoginRequest.class
+com\ecommerce\userservice\model\User.class
+com\ecommerce\userservice\config\SecurityConfig.class
+com\ecommerce\userservice\service\AuthService.class
+com\ecommerce\userservice\controller\UserController.class
+com\ecommerce\userservice\dto\LoginResponse.class
+com\ecommerce\userservice\repository\UserRepository.class
+com\ecommerce\userservice\service\UserService.class
+com\ecommerce\userservice\model\Role.class
